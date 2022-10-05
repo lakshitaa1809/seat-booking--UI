@@ -49,7 +49,7 @@ ul {
   justify-content: center;
   margin-top: 30px;
   margin-left: 10px;
-  gap: 50px;
+  gap: 30px;
 }
 .seat {
   box-sizing: border-box;
@@ -96,9 +96,9 @@ p {
   color: var(--text-color);
   background-color: var(--white);
   border-style: solid;
-  width: 640px;
+  width: 600px;
   height: 150px;
-  transform: rotateX(-30deg);
+  transform: rotateX(-40deg);
 }
 .seat-arrange {
   margin-left: 450px;
@@ -117,7 +117,7 @@ p {
   gap: 20px;
 }
 .seat-arrange2 {
-  margin-left: 750px;
+  margin-left: 850px;
   position: relative;
   bottom: 682px;
   display: flex;
